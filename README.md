@@ -1,4 +1,4 @@
-# FinalProjectOnlineVotingSystem
+# OnlineVotingSystem
 "Online Voting System" is a simple web-based online voting systems that will help the college to know student's most preferred language for software development. Online voting (also known as e-voting) is voting using electronic systems to aid casting and counting votes.
 
 Requirements:
